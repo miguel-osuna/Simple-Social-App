@@ -137,10 +137,6 @@ STATIC_URL = '/static/'
 LOGIN_REDIRECT_URL = 'test'
 LOGOUT_REDIRECT_URL = 'thanks'
 
-# Configure Django App for Heroku
-import django_heroku
-django_heroku.settings(locals())
-
 # Heroku: Update database configuration from $DATABASE_URL.
 import dj_database_url
 db_from_env = dj_database_url.config(conn_max_age=500)
