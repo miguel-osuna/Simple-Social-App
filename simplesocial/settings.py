@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 't&=eb=%y!h_w-nd#jzf**x7r6i3@*k
 # DEBUG = True
 DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sheltered-cove-21395.herokuapp.com']
 
 
 # Application definition
