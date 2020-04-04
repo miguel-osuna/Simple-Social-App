@@ -24,12 +24,6 @@ Follow the instructions below to get a copy of the project, whether it's for dev
 
 You'll need Git, Python 3.7, Pip, Django and a Virtual Environment (like Conda).
 
-```
-node@v12.13.0 or higher
-npm@6.13.1 or higher
-git@2.17.1 or higher
-```
-
 ### :computer: Installation
 
 ```
