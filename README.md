@@ -2,9 +2,7 @@
 
 ## :book: Description
 
-Front-End application for Multiple Face Detection created with Create React App.
-
-Social network where you can read and share posts in different groups.
+Full-stack multipage application created as a social website to share knowledge about different programming topics.
 
 ### :dart: Features
 
