@@ -16,8 +16,8 @@ Full-stack multipage application created as a social website to share knowledge 
 
 ## :bulb: Getting Started
 
-Follow the instructions below to get a copy of the project, whether it's for development or testing purposes.
-3
+Follow the instructions below to get a copy of the project, either for development or testing purposes.
+
 ### :clipboard: Prerequisites
 
 You'll need Git, Python 3.7, Pip, Django and a Virtual Environment (like Conda).
